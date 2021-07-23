@@ -1,1 +1,1 @@
-# go-rps
+# Rock, Paper, Scissors - GoLang
